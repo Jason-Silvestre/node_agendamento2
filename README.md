@@ -1,6 +1,5 @@
 # node_agendamento2
 
-
 ## Back End
 
 Features
@@ -19,6 +18,8 @@ Recomendações
 - [ ] Criar um readme - documentação
   - https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
   - https://github.com/lbbergamo/FIFO-Server
+- [ ] app.heroku.com/transmissao
+    - nele vai retornar um objeto com um endereço do ultima transmissão
 
 ## Front End
 
