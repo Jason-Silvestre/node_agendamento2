@@ -1,0 +1,20 @@
+<h3>Visitas: </h3>
+<hr>
+<form action="/searchresult" method="get">
+    <input type="search" name="search" id="search" placeholder="Insira o e-mail">
+<button>Pesquisar Visita</button>
+
+</form>
+<hr>
+<% vis.forEach(visit => { %>
+
+    <h3>Nome: <%= visit.name %></h3> 
+    <h3>Endereço: <%= visit.address %></h3>
+    <h3>Motivo: <%= visit.description %></h3> 
+    <h3>Data: <%= visit.date %> </h3>
+    <h3>Horário: <%= visit.time %></h3>
+    <h3>Idade: <%= visit.age %> </h3>
+    <h3>Email: <%= visit.email %></h3>
+    <hr>
+    <% }) %>
+    
