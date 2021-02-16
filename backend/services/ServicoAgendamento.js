@@ -1,6 +1,6 @@
 var visita = require('../services/Visita');
 var mongoose = require("mongoose");
-var VisitFactory = require("../factories/VisitFactory");
+var VisitFactory = require("../Factories/VisitFactory");
 var nodemailer = require("nodemailer");
 
 const Visit = mongoose.model("Visita", visita);
