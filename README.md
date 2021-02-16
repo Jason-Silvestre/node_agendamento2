@@ -18,6 +18,9 @@ Recomendações
 - [ ] Criar um readme - documentação
   - https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
   - https://github.com/lbbergamo/FIFO-Server
+- [ ] Estudar sobre modularização
+  - Principio de S de SOLID
+  - https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
 - [ ] app.heroku.com/transmissao
     - nele vai retornar um objeto com um endereço do ultima transmissão
 
@@ -28,5 +31,6 @@ Recomendações
 - [ ] Criar um readme - documentação
 - [ ] Aprender chamar sites/url
   - Exibir
-- [ ] Enviando post ou get
+  - Utilizando axios get
+  - Enviando post ou get
     - https://reqres.in/
